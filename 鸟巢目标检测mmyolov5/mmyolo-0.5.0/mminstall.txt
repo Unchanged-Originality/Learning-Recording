@@ -1,4 +1,0 @@
-mmcv==2.0.0rc4
-mmdet==3.0.0rc6
-mmengine==0.6.0
-tensorboard==2.11.0
