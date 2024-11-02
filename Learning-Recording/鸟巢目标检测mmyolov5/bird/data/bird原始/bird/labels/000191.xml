@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>000191.jpg</filename>
+	<path>D:\自己的文件\mmyolo-0.5.0\data\birdhome\images\000191.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>768</width>
+		<height>768</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>nest</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>267</xmin>
+			<ymin>326</ymin>
+			<xmax>365</xmax>
+			<ymax>414</ymax>
+		</bndbox>
+	</object>
+</annotation>
